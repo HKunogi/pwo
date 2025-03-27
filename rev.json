@@ -1,0 +1,24 @@
+{
+  "Files": [
+    {
+      "Source": "https://github.com/HKunogi/pwo/releases/download/mpq/_update.bat",
+      "Dest": "./update.bat",
+      "Rev": "0"
+    },
+    {
+      "Source": "https://github.com/HKunogi/pwo/releases/download/mpq/patch-z.mpq",
+      "Dest": "./data/patch-z.mpq",
+      "Rev": "0"
+    },
+    {
+      "Source": "https://github.com/HKunogi/pwo/releases/download/mpq/wow.exe",
+      "Dest": "./wow.exe",
+      "Rev": "0"
+    },
+    {
+      "Source": "https://github.com/HKunogi/pwo/releases/download/mpq/patch-y.mpq",
+      "Dest": "./data/patch-y.mpq",
+      "Rev": "0"
+    }
+  ]
+}
