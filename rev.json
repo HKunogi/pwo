@@ -2,7 +2,7 @@
   "Files": [
     {
       "Source": "https://github.com/HKunogi/pwo/releases/download/mpq/_update.bat",
-      "Dest": "./update.bat",
+      "Dest": "./_update.bat",
       "Rev": "0"
     },
     {
