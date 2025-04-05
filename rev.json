@@ -24,6 +24,6 @@
       "Source": "https://github.com/HKunogi/pwo/releases/download/mpq/patch-z.mpq",
       "Dest": "./data/patch-z.mpq",
       "Rev": "1"
-    },
+    }
   ]
 }
